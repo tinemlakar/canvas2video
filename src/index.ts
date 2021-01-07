@@ -1,4 +1,4 @@
-import encoder from "./encoder";
-import renderer from "./renderer";
+import encoder from './encoder';
+import renderer from './renderer';
 
 export { encoder, renderer };
